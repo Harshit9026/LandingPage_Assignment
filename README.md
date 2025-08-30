@@ -75,15 +75,15 @@ Dark mode compatible using CSS variables.
 
 Feel free to fork this repo and submit pull requests for improvements or new features.
 
-📝 License
+## 🖼️ Screenshots
 
-This project is licensed under the MIT License.
+### 🏠 Home Page
+![HomePage Screenshot](https://github.com/Harshit9026/mern-chat-app/blob/main/frontend/src/assets/mern-chat-app.2.png)
+
+### 💬 LoginPage
+![Chat Screenshot](https://github.com/Harshit9026/mern-chat-app/blob/main/frontend/src/assets/mern-chat-app.1.png)
 
 
----
 
-I can also make a **shorter version with badges and live demo link** ready for GitHub if you want—it will look more professional.  
-
-Do you want me to do that?
 
 
