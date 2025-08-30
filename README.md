@@ -75,14 +75,6 @@ Dark mode compatible using CSS variables.
 
 Feel free to fork this repo and submit pull requests for improvements or new features.
 
-## 🖼️ Screenshots
-
-### 🏠 Home Page
-[![Landing Page Screenshot](https://github.com/Harshit9026/LandingPage_Assignment/raw/main/src/assets/LandingPage-1.png)](https://github.com/Harshit9026/LandingPage_Assignment/raw/main/src/assets/LandingPage-1.png)
-
-### 💬 Login Page
-[![Login Page Screenshot](https://github.com/Harshit9026/LandingPage_Assignment/raw/main/src/assets/LandingPage-2.png)](https://github.com/Harshit9026/LandingPage_Assignment/raw/main/src/assets/LandingPage-2.png)
-
 
 
 
