@@ -78,7 +78,8 @@ Feel free to fork this repo and submit pull requests for improvements or new fea
 ## 🖼️ Screenshots
 
 ### 🏠 Home Page
-![HomePage Screenshot](https://github.com/Harshit9026/mern-chat-app/blob/main/frontend/src/assets/mern-chat-app.2.png)
+[![Landing Page Screenshot](screenshots/screenshot.png)](https://your-live-demo-link.com)
+
 
 ### 💬 LoginPage
 ![Chat Screenshot](https://github.com/Harshit9026/mern-chat-app/blob/main/frontend/src/assets/mern-chat-app.1.png)
