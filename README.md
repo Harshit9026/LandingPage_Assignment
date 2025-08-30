@@ -1,16 +1,89 @@
-<<<<<<< HEAD
-# LandingPage_Assignment
-=======
-# React + Vite
+# Mindful Landing Page
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A responsive and interactive landing page for a mindfulness platform, built with **React**, **Tailwind CSS**, and modern frontend libraries.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Core Features
 
-## Expanding the ESLint configuration
+- Fully **responsive** design for mobile, tablet, and desktop.
+- **Smooth scrolling** navigation between sections.
+- **Interactive popup form** for free trial requests.
+- **Loading states** and **success animation** after form submission.
+- **Modern gradient designs** and **hover effects**.
+- **Component-based architecture** for maintainability.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
->>>>>>> 1b9703b (first commit)
+---
+
+## 🎨 Technologies Used
+
+- **React** – Component-based UI library.
+- **Tailwind CSS** – Utility-first CSS framework for rapid styling.
+- **Framer Motion** – Smooth animations and transitions.
+- **Shadcn/ui** – Accessible UI components (Button, Input, Select, etc.).
+- **Lucide React** – Icon library.
+- **Unsplash Images** – Stock photos for hero and section images.
+
+---
+
+## 📁 Folder Structure
+
+src/
+├── components/ # Reusable components (Header, Footer, HeroSection, TrialPopup)
+├── entities/ # JSON or backend entity definitions
+├── pages/ # Page components (LandingPage)
+├── App.jsx # Main application component
+├── index.jsx # Entry point
+
+
+---
+
+## 💻 Getting Started
+
+### 1. Clone the repository
+```bash
+git clone https://github.com/Harshit9026/LandingPage_Assignment.git
+cd LandingPage_Assignment
+
+2. Install dependencies
+npm install
+
+3. Start the development server
+npm run dev
+
+
+Open http://localhost:5173
+ to view the project.
+
+⚡ Usage
+
+Click Start Free Trial buttons to open the trial popup.
+
+Fill in your details and submit to see success confirmation.
+
+Navigate through sections with smooth scrolling.
+
+🎨 Styling
+
+Utility-first approach with Tailwind CSS.
+
+Custom gradients and hover effects for a modern look.
+
+Dark mode compatible using CSS variables.
+
+📩 Contribution
+
+Feel free to fork this repo and submit pull requests for improvements or new features.
+
+📝 License
+
+This project is licensed under the MIT License.
+
+
+---
+
+I can also make a **shorter version with badges and live demo link** ready for GitHub if you want—it will look more professional.  
+
+Do you want me to do that?
+
+
