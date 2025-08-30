@@ -78,11 +78,11 @@ Feel free to fork this repo and submit pull requests for improvements or new fea
 ## 🖼️ Screenshots
 
 ### 🏠 Home Page
-[![Landing Page Screenshot](screenshots/screenshot.png)](https://your-live-demo-link.com)
+[![Landing Page Screenshot](https://github.com/Harshit9026/LandingPage_Assignment/raw/main/src/assets/LandingPage-1.png)](https://github.com/Harshit9026/LandingPage_Assignment/raw/main/src/assets/LandingPage-1.png)
 
+### 💬 Login Page
+[![Login Page Screenshot](https://github.com/Harshit9026/LandingPage_Assignment/raw/main/src/assets/LandingPage-2.png)](https://github.com/Harshit9026/LandingPage_Assignment/raw/main/src/assets/LandingPage-2.png)
 
-### 💬 LoginPage
-![Chat Screenshot](https://github.com/Harshit9026/mern-chat-app/blob/main/frontend/src/assets/mern-chat-app.1.png)
 
 
 
